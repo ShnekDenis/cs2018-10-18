@@ -19,5 +19,12 @@ int i=sc.nextInt();
 
  */
 
-class TaskB1 {
+import java.util.Scanner;
+
+class TaskB1 { public static void main(String[] args) {
+    System.out.println("Число?");
+    Scanner sc=new Scanner (System.in);
+    int n = sc.nextInt();
+    System.out.println(n * n);
+}
 }
