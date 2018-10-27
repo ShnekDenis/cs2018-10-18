@@ -22,10 +22,14 @@ Lesson 03. Task A2. Стихотворение
 */
 class TaskA2 {
     public static void main(String[] args) {
-        String a = "У лукоморья дуб зелёный1;";
-        String b = "У лукоморья дуб зелёный2;";
-        String c = "У лукоморья дуб зелёный3;";
-        String d = "У лукоморья дуб зелёный4;";
-        System.out.println();
+        String a = "У лукоморья дуб зелёный";
+        String b = "Златая цепь на дубе том:";
+        String c = "И днём и ночью кот учёный";
+        String d = "Всё ходит по цепи кругом;";
+        String e = "Идёт направо - песнь заводит,";
+        String f = "Налево - сказку говорит.";
+        String g = "Там чудеса: там леший бродит,";
+        String h = "Русалка на ветвях сидит;";
+        System.out.println(a+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n"+g+"\n"+h);
     }
 }
