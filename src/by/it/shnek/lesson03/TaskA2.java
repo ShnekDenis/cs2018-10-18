@@ -22,6 +22,7 @@ Lesson 03. Task A2. Стихотворение
 */
 class TaskA2 {
     public static void main(String[] args) {
+        String z = "Мое любимое стихотворение:";
         String a = "У лукоморья дуб зелёный";
         String b = "Златая цепь на дубе том:";
         String c = "И днём и ночью кот учёный";
@@ -30,6 +31,6 @@ class TaskA2 {
         String f = "Налево - сказку говорит.";
         String g = "Там чудеса: там леший бродит,";
         String h = "Русалка на ветвях сидит;";
-        System.out.println(a+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n"+g+"\n"+h);
+        System.out.println(z+"\n"+a+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n"+g+"\n"+h);
     }
 }
