@@ -27,5 +27,4 @@ double averageAge(Dog[] dogs){.....}; //должен вычислять сред
 
 public class TaskB1 {
 
-
 }
